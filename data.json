@@ -1,0 +1,15 @@
+{
+    "customer1":
+    {
+    "principal":"1000000USD",
+    "rate":"20",
+    "year period":"4"
+    },
+    "customer2":
+    {
+        "principal": "1500000USD",
+        "rate": "20",
+        "year period": "4"
+    }
+
+  }
